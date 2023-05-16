@@ -8,4 +8,5 @@ git clone https://github.com/ayoni02/BWV-book-review-project.git
 python script.py
 ```
 # Or you can just got to https://huggingface.co/spaces/ayoni02/Books_recommended_system to see it in work
-if it's not working, you can duplicate the space and run it on your own
+---
+> if it's not working, you can duplicate the space and run it on your own
